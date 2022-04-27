@@ -1,0 +1,15 @@
+E:\Proyectos\Lista Comandos\Backend\Backend_ListaComandos\ListaComandos.DAL\bin\Debug\net5.0\ListaComandos.DAL.deps.json
+E:\Proyectos\Lista Comandos\Backend\Backend_ListaComandos\ListaComandos.DAL\bin\Debug\net5.0\ListaComandos.DAL.runtimeconfig.json
+E:\Proyectos\Lista Comandos\Backend\Backend_ListaComandos\ListaComandos.DAL\bin\Debug\net5.0\ListaComandos.DAL.runtimeconfig.dev.json
+E:\Proyectos\Lista Comandos\Backend\Backend_ListaComandos\ListaComandos.DAL\bin\Debug\net5.0\ListaComandos.DAL.dll
+E:\Proyectos\Lista Comandos\Backend\Backend_ListaComandos\ListaComandos.DAL\bin\Debug\net5.0\ref\ListaComandos.DAL.dll
+E:\Proyectos\Lista Comandos\Backend\Backend_ListaComandos\ListaComandos.DAL\bin\Debug\net5.0\ListaComandos.DAL.pdb
+E:\Proyectos\Lista Comandos\Backend\Backend_ListaComandos\ListaComandos.DAL\obj\Debug\net5.0\ListaComandos.DAL.csproj.AssemblyReference.cache
+E:\Proyectos\Lista Comandos\Backend\Backend_ListaComandos\ListaComandos.DAL\obj\Debug\net5.0\ListaComandos.DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Proyectos\Lista Comandos\Backend\Backend_ListaComandos\ListaComandos.DAL\obj\Debug\net5.0\ListaComandos.DAL.AssemblyInfoInputs.cache
+E:\Proyectos\Lista Comandos\Backend\Backend_ListaComandos\ListaComandos.DAL\obj\Debug\net5.0\ListaComandos.DAL.AssemblyInfo.cs
+E:\Proyectos\Lista Comandos\Backend\Backend_ListaComandos\ListaComandos.DAL\obj\Debug\net5.0\ListaComandos.DAL.csproj.CoreCompileInputs.cache
+E:\Proyectos\Lista Comandos\Backend\Backend_ListaComandos\ListaComandos.DAL\obj\Debug\net5.0\ListaComandos.DAL.dll
+E:\Proyectos\Lista Comandos\Backend\Backend_ListaComandos\ListaComandos.DAL\obj\Debug\net5.0\ref\ListaComandos.DAL.dll
+E:\Proyectos\Lista Comandos\Backend\Backend_ListaComandos\ListaComandos.DAL\obj\Debug\net5.0\ListaComandos.DAL.pdb
+E:\Proyectos\Lista Comandos\Backend\Backend_ListaComandos\ListaComandos.DAL\obj\Debug\net5.0\ListaComandos.DAL.genruntimeconfig.cache
